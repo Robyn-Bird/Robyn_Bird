@@ -342,41 +342,49 @@ camp = '''  <section class="pagehead rb-pagehead">
     </div>
   </section>
 
-  <section class="block issue rb-pri">
-    <div class="wrap prose">
-      <figure class="rb-camp-photo"><picture><source type="image/webp" srcset="assets/robyn-bird-640.webp 640w, assets/robyn-bird-960.webp 960w" sizes="(max-width: 760px) 92vw, 320px"><img src="assets/robyn-bird.jpg" alt="Robyn Bird, 2026 candidate for State Representative" width="960" height="960" loading="lazy"></picture></figure>
-      <h2>Why I ran</h2>
-      <p>I ran because I love where I'm from. At door after door I met neighbors who didn't know who represents them, and families worried about whether they can afford to stay. I wanted them to have someone who actually shows up.</p>
+  <section class="block rb-camp">
+    <div class="wrap">
+      <div class="rb-camp-intro">
+        <figure class="rb-camp-photo"><picture><source type="image/webp" srcset="assets/robyn-bird-640.webp 640w, assets/robyn-bird-960.webp 960w" sizes="(max-width: 760px) 40vw, 260px"><img src="assets/robyn-bird.jpg" alt="Robyn Bird, 2026 candidate for State Representative" width="960" height="960" loading="lazy"></picture></figure>
+        <div>
+          <h2>Why I ran</h2>
+          <p>I ran because I love where I'm from. At door after door I met neighbors who didn't know who represents them, and families worried about whether they can afford to stay. I wanted them to have someone who actually shows up.</p>
+          <p class="pull">“I have seen Robyn's dedication firsthand. She cares about the people of this union, takes their concerns to heart and is willing to have the difficult conversations necessary to fight for us.”<cite>Mike Bresnan, President, IAFF Local 22</cite></p>
+        </div>
+      </div>
 
       <h2>What I ran on</h2>
-      <ul class="rb-list">
-        <li><strong>Safe streets.</strong> Back the firefighters, paramedics and police who protect us, and stand with victims, not criminals.</li>
-        <li><strong>Schools that work.</strong> Strong neighborhood public schools, and real school choice for parents.</li>
-        <li><strong>Neighborhoods families can afford.</strong> Protect homeowners and seniors from rising property taxes and utility costs, and grow good union jobs.</li>
-        <li><strong>Someone who shows up.</strong> Help anyone who asks, no matter their party.</li>
-      </ul>
-
-      <h2>Endorsed by</h2>
-      <div class="rb-endorse">
-        <figure><img src="assets/iaff-local-22.jpg" alt="IAFF Local 22" width="120" height="120" loading="lazy"><figcaption>IAFF Local&nbsp;22, Philadelphia Firefighters &amp; Paramedics</figcaption></figure>
-        <figure><img src="assets/ppffa-logo.png" alt="PA Professional Fire Fighters Association" width="120" height="120" loading="lazy"><figcaption>PA Professional Fire Fighters Association</figcaption></figure>
-        <figure class="rb-endorse-text"><figcaption>PA Young Republicans</figcaption></figure>
+      <div class="rb-camp-cards">
+        <div class="rb-camp-card"><h3>Safe streets</h3><p>Back the firefighters, paramedics and police who protect us, and stand with victims, not criminals.</p></div>
+        <div class="rb-camp-card"><h3>Schools that work</h3><p>Strong neighborhood public schools, and real school choice for parents.</p></div>
+        <div class="rb-camp-card"><h3>Neighborhoods families can afford</h3><p>Protect homeowners and seniors from rising property taxes and utility costs, and grow good union jobs.</p></div>
+        <div class="rb-camp-card"><h3>Someone who shows up</h3><p>Help anyone who asks, no matter their party.</p></div>
       </div>
-      <p class="pull">“I have seen Robyn's dedication firsthand. She cares about the people of this union, takes their concerns to heart and is willing to have the difficult conversations necessary to fight for us.”<cite>Mike Bresnan, President, IAFF Local 22</cite></p>
 
-      <h2>In the press</h2>
-      <ul class="rb-list">
-        <li>The Kathy Barnette Show</li>
-        <li>Northeast Times</li>
-        <li>The Philadelphia Citizen</li>
-        <li>Billy Penn</li>
-      </ul>
+      <div class="rb-camp-two">
+        <div>
+          <h2>Endorsed by</h2>
+          <div class="rb-endorse">
+            <figure><img src="assets/iaff-local-22.jpg" alt="IAFF Local 22" width="120" height="120" loading="lazy"><figcaption>IAFF Local&nbsp;22, Philadelphia Firefighters &amp; Paramedics</figcaption></figure>
+            <figure><img src="assets/ppffa-logo.png" alt="PA Professional Fire Fighters Association" width="120" height="120" loading="lazy"><figcaption>PA Professional Fire Fighters Association</figcaption></figure>
+            <figure class="rb-endorse-text"><figcaption>PA Young Republicans</figcaption></figure>
+          </div>
+        </div>
+        <div>
+          <h2>In the press</h2>
+          <ul class="rb-chips">
+            <li>The Kathy Barnette Show</li>
+            <li>Northeast Times</li>
+            <li>The Philadelphia Citizen</li>
+            <li>Billy Penn</li>
+          </ul>
+        </div>
+      </div>
 
       <h2>Thank you</h2>
       <div class="rb-letter">
         <p>I ran because I love where I'm from, and I still do. To every voter, neighbor, friend and donor who opened your door, took a sign, gave what you could or stopped me on the street to talk: thank you. To the firefighters and paramedics of Local&nbsp;22, who had my back from day one: I'll never forget it.</p>
-        <p>I heard you at every door. You want safe streets, good schools and someone who actually shows up. That doesn't stop because an election did.</p>
-        <p><strong>I'm not going anywhere.</strong></p>
+        <p>I heard you at every door. You want safe streets, good schools and someone who actually shows up. That doesn't stop because an election did. <strong>I'm not going anywhere.</strong></p>
         <p class="sig"><img src="assets/email/signature-robyn.png" alt="&ndash; Robyn" width="189" height="63"></p>
       </div>
       <p><a class="rb-link rb-link-navy" href="https://www.voterobynbird.com/" target="_blank" rel="noopener">The campaign website</a></p>
